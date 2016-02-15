@@ -2,6 +2,10 @@
 
 I answered my question by getting some data at 9:55pm on 14th Feb 2016. I put them on a map in ggplot2 to see what it's like. Apparently, I'm still fortunate compared to the folks up there in Canada..
 
+Here's the visualization:
+
+![Cold Weather in New England](https://github.com/nlavee/NewEnglandCold/blob/master/extremeWeather/weather.jpeg)
+
 I just wanted to visualize something since I have not done any visualization recently due to school work. 
 
 You can contact me at [anhvu.nguyenlam@gmail.com](mailto:anhvu.nguyenlam@gmail.com) or [vu.nguyen@skidmore.edu](mailto:vu.nguyen@skidmore.edu).
