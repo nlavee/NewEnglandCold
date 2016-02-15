@@ -12,7 +12,7 @@ myMap <- get_map(location="New England",
 
 ggmap(myMap)+
   geom_point(aes(x = lon, y = lat, size = temp, color = wind_chill), data = weatherNorthEastUS,
-             alpha = .7) + scale_colour_gradient(low = "blue") + labs(title = "Wind Chill Temperature around New England (Celcius)") + xlab("Longitude") + ylab("Latitude")
+             alpha = .7) + scale_colour_gradient(low = "blue") + labs(title = "Wind Chill Temperature around New England (Celsius)") + xlab("Longitude") + ylab("Latitude")
 
 ## histogram of wind_chill
 m <- ggplot(weatherNorthEastUS, aes(x=wind_chill))
