@@ -3,7 +3,7 @@ import requests
 
 '''
 	Wind chill calculation given by: http://www.capgo.com/Resources/InterestStories/WindChill/WindChill.html
-	Script ran at 9:55 pm Sunday Feb 14 for blogpost.
+	Script ran at 9:55 pm Sunday Feb 14 for fun.
 '''
 link = "http://api.openweathermap.org/data/2.5/group?id="
 unit = "&units=metric"
@@ -11,7 +11,7 @@ unit = "&units=metric"
 multipleRecangleZone = "http://api.openweathermap.org/data/2.5/box/city?bbox="
 cluster = "&cluster=yes"
 units='&units=imperial'
-id = "&APPID=4f036b93c98e481dfbddadf07602900f"
+id = "&APPID=___INSERT_YOUR_APPID_FROM_OPENWEATHER_API_HERE___"
 
 topLeftLon = 48.299423
 topLeftLat = -79.229681
