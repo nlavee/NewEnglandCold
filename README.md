@@ -6,6 +6,6 @@ Here's the visualization, each point is a city with purple color city having low
 
 ![Cold Weather in New England](https://github.com/nlavee/NewEnglandCold/blob/master/extremeWeather/weather.jpeg)
 
-I just wanted to visualize something since I have not done any visualization recently due to school work. This image will also go into a short medium post [here]() 
+I just wanted to visualize something since I have not done any visualization recently due to school work. This image will also go into a short medium post [here](https://medium.com/@nlavee/new-england-wind-chill-cbead54698f8#.upe53kj98) 
 
 You can contact me at [anhvu.nguyenlam@gmail.com](mailto:anhvu.nguyenlam@gmail.com) or [vu.nguyen@skidmore.edu](mailto:vu.nguyen@skidmore.edu).
